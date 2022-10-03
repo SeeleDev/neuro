@@ -1,11 +1,1 @@
-{
-
-	"version": "16.2",
-
-	"changelog": "— Test",
-
-	"changelog-ru": "— Тест",
-
-	"link": "https://build.vanutp.dev/instander/clone/instander-16.0-c.apk"
-
-}
+{'ver1':'1', 'ver2':'3', 'ver3':'\nЭто тестовый диалог не обращайте внимания!' , 'dli':'https://t.me/ach1ma'}
